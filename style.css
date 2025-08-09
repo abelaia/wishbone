@@ -211,6 +211,7 @@
     padding-left: 30px;
 }
 .container_main3 {
+<<<<<<< HEAD
     display: flex;             
     align-items: center;       
     justify-content: flex-end;  
@@ -226,6 +227,23 @@
     text-align: left;     
     padding-right: 20px;     
     z-index: 1;             
+=======
+  display: flex;            
+  align-items: center;      
+  justify-content: flex-end; 
+  width: 100%;             
+  height: 600px;  
+  padding-right: 30px;           
+  position: relative;         
+}
+
+.text_content3 {
+  padding-left: 1080px;
+  width: 40%;        
+  text-align: left;      
+  padding-right: 20px;      
+  z-index: 1;             
+>>>>>>> 864515b0a431a2e138a0fd2a25eeb6792ee49833
 }
 
 .title_container_main3 {
