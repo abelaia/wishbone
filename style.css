@@ -208,21 +208,21 @@
     padding-left: 30px;
 }
 .container_main3 {
-  display: flex;             /* Включаем Flexbox */
-  align-items: center;       /* Выравниваем элементы по вертикали */
-  justify-content: flex-end;  /* Выравниваем контент по правому краю */
-  width: 100%;              /* Занимаем всю ширину */
+  display: flex;            
+  align-items: center;      
+  justify-content: flex-end; 
+  width: 100%;             
   height: 600px;  
-  padding-right: 30px;           /* Задаем высоту */
-  position: relative;        /* Для позиционирования изображения */        /* Обрезаем выходящее за границы */
+  padding-right: 30px;           
+  position: relative;         
 }
 
 .text_content3 {
-padding-left: 1080px;
-  width: 40%;             /* Задаем ширину для текстового блока (можно изменить) */
-  text-align: left;          /* Выравниваем текст по левому краю */
-  padding-right: 20px;      /* Добавляем отступ справа (по желанию) */
-  z-index: 1;                /* Отображаем над изображением */
+  padding-left: 1080px;
+  width: 40%;        
+  text-align: left;      
+  padding-right: 20px;      
+  z-index: 1;             
 }
 
 .title_container_main3 {
