@@ -529,3 +529,123 @@
   z-index: 0;      
   padding-left: 35px;
 }
+.container_main8{
+    width:auto;
+    height:918px;
+    background-color: #F7F7F7;
+    justify-content: center;
+}
+.content_main8{
+    width:1200px;
+    height:698px;
+    padding-top: 120px;
+    padding-left:157px;
+}
+.text_content_main8{
+    padding: 0;
+    margin:0;
+}
+.title_main8{
+    padding: 0;
+    margin:0;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 39px;
+    line-height: 42px;
+    letter-spacing: 0%;
+    color:#1B1A1A;
+}
+.paragraph_main8{
+    padding: 0;
+    margin:0;
+    color:#645C55;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    padding-top: 15px;
+}
+
+.img_container_main8{
+    padding-top: 42px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    z-index: 0;
+}
+.img_main8:nth-child(2) {
+    position: relative;        
+}
+.text_on_img_main8{
+    position: absolute;        
+    top: 40px;                 
+    left: 40px;               
+    text-align: left; 
+}
+.title_on_img_main8{
+    margin: 0;
+    padding:0;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #645C55;
+
+}
+.parag_on_img_main8{
+    padding: 0;
+    margin:0;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 23px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    color:#403E3B;
+}
+.button_main8{
+    position: absolute;
+  padding-top: 280px; 
+  left: 50%;
+    z-index: 1;
+    transform: translateX(-50%);
+}
+.read_more_main8{
+    z-index: 1;
+    text-align: center;
+    width:133px;
+    height:46px;
+    border-radius: 14px;
+    background-color: #1B1A1A;
+    color:#FFFFFF;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+}
+.link{
+    padding: 0;
+    margin: 0;
+    padding-top: 51px;
+    display: flex;
+    justify-content: center;
+}
+.view_proj{
+    color: #1B1A1A;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: none;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+    text-align: center;
+    text-decoration: none;
+}
