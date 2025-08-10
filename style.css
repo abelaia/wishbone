@@ -474,3 +474,58 @@
     letter-spacing: 0%;
     color: #ECE7E4;
 }
+
+.container_main7 {
+    display: flex;             
+    align-items: center;       
+    justify-content: flex-start;  
+    width: 100%;              
+    height: 600px;  
+    padding-left: 30px;          
+    position: relative;        
+}
+
+.text_content7 {
+    padding-left: 80px;
+    width: 40%;            
+    text-align: left;     
+    padding-right: 20px;     
+    z-index: 1;             
+}
+
+.title_container_main7 {
+    padding-top: 266px;
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #403E3B;
+}
+
+.paragraph_main7 {
+    margin: 0;
+    padding: 0;
+    color: #645C55;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0%;
+}
+
+.background_main7 {
+  width: auto;  
+  height: 100%;       
+  position: absolute;  
+  left: 0;                 
+  top: 0;                  
+  object-fit: cover;       
+  z-index: 0;      
+  padding-left: 35px;
+}
