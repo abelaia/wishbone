@@ -714,5 +714,74 @@
     justify-content: right;
     gap:117px;
 }
+.container_main10 {
+    background-color: #CEC4BC;
+    height:314px;
+    width: 100%; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top:30px;
+    padding-left:35px;
+    box-sizing: border-box;
+}
 
+.content_main10 {
+    height: 114px;
+    width:auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+}
+
+.text_with_button {
+    display:flex;
+    gap:500px;
+    align-items: center;
+    min-width: 600px;
+}
+
+.title_main10 {
+    padding: 0;
+    margin: 0;
+    color:#645C55;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.parag_main10 {
+    padding: 0;
+    margin: 0;
+    padding-top: 5px;
+    color:#1B1A1A;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: 0%;
+    white-space: nowrap;
+}
+
+.link_main10 {
+    text-align: right;
+    display: flex;
+    align-items: center;
+}
+
+.get_in_touch {
+    color:#1B1A1A;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: none;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+    text-decoration: none;
+    white-space: nowrap; 
+}
 
